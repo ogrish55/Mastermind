@@ -1,0 +1,5 @@
+C:\Users\Krist\Documents\cSharpProjects\Hobby\Mastermind\Model\bin\Debug\Model.dll
+C:\Users\Krist\Documents\cSharpProjects\Hobby\Mastermind\Model\bin\Debug\Model.pdb
+C:\Users\Krist\Documents\cSharpProjects\Hobby\Mastermind\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Krist\Documents\cSharpProjects\Hobby\Mastermind\Model\obj\Debug\Model.dll
+C:\Users\Krist\Documents\cSharpProjects\Hobby\Mastermind\Model\obj\Debug\Model.pdb

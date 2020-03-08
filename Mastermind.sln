@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastermind", "GUI\Mastermind.csproj", "{625D5B77-AEEB-4BDA-9D59-9F84D633EF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{4B9750CF-A970-4B87-A957-60CE1DBE4554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{111CAF1A-1534-4CDB-8408-877339B4B174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{625D5B77-AEEB-4BDA-9D59-9F84D633EF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625D5B77-AEEB-4BDA-9D59-9F84D633EF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625D5B77-AEEB-4BDA-9D59-9F84D633EF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625D5B77-AEEB-4BDA-9D59-9F84D633EF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B9750CF-A970-4B87-A957-60CE1DBE4554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9750CF-A970-4B87-A957-60CE1DBE4554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9750CF-A970-4B87-A957-60CE1DBE4554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9750CF-A970-4B87-A957-60CE1DBE4554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111CAF1A-1534-4CDB-8408-877339B4B174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111CAF1A-1534-4CDB-8408-877339B4B174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111CAF1A-1534-4CDB-8408-877339B4B174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111CAF1A-1534-4CDB-8408-877339B4B174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9BA7DEE-6149-4DD7-A22C-A55FDC74CA06}
+	EndGlobalSection
+EndGlobal
