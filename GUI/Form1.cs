@@ -15,6 +15,8 @@ namespace GUI
 {
     public partial class Form1 : Form
     {
+
+        //Message from laptop
         NodeController nodeController;
         AiController aiController;
         List<Label> allLabels = new List<Label>();
