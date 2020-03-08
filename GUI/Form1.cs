@@ -16,7 +16,7 @@ namespace GUI
     public partial class Form1 : Form
     {
         //Besked fra Planken Haha
-        //Besked fra KK
+        //Næh nej
         //Message from laptop
         NodeController nodeController;
         AiController aiController;
