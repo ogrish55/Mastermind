@@ -19,6 +19,8 @@ namespace GUI
                 "The player has 10 attempts to guess the secret combination of colors.\n" +
                 "If a color is guessed, but the position is wrong, a white point will be rewarded.\n" +
                 "If a color and it's position is guessed, a black point will be rewarded.";
+
+            base.Text = "How To Play";
         }
 
         private void button1_Click(object sender, EventArgs e)
