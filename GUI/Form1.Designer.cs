@@ -121,12 +121,13 @@
             // 
             // GuessBtn
             // 
+            this.GuessBtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.GuessBtn.Location = new System.Drawing.Point(331, 595);
             this.GuessBtn.Name = "GuessBtn";
             this.GuessBtn.Size = new System.Drawing.Size(75, 23);
             this.GuessBtn.TabIndex = 0;
             this.GuessBtn.Text = "Guess";
-            this.GuessBtn.UseVisualStyleBackColor = true;
+            this.GuessBtn.UseVisualStyleBackColor = false;
             this.GuessBtn.Click += new System.EventHandler(this.button1_Click);
             // 
             // cmbBoxColor1
@@ -199,6 +200,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.groupBox1.Controls.Add(this.OneLblFour);
             this.groupBox1.Controls.Add(this.OneLblThree);
             this.groupBox1.Controls.Add(this.OneLblTwo);
@@ -821,6 +823,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(802, 634);
             this.Controls.Add(this.BlackScore10);
             this.Controls.Add(this.WhiteScore10);

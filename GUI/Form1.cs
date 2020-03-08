@@ -30,6 +30,7 @@ namespace GUI
         List<Label> roundTenLabels = new List<Label>();
         List<GroupBox> groupBoxes = new List<GroupBox>();
 
+        
 
         public Form1()
         {
@@ -37,7 +38,6 @@ namespace GUI
             nodeController = new NodeController();
             aiController = new AiController();
             PopulateUI();
-
         }
 
         private void YouWin()
@@ -50,6 +50,7 @@ namespace GUI
             else
             {
                 this.Close();
+                base.Dispose();
             }
         }
 
@@ -96,6 +97,7 @@ namespace GUI
                else
                 {
                     this.Close();
+                    base.Dispose();
                 }
             }
         }
