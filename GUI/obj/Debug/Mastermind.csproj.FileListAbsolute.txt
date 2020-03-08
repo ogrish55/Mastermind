@@ -16,3 +16,5 @@ C:\Users\Krist\Documents\cSharpProjects\Hobby\Mastermind\GUI\obj\Debug\GUI.appli
 C:\Users\Krist\Documents\cSharpProjects\Hobby\Mastermind\GUI\obj\Debug\Mastermind.csproj.CopyComplete
 C:\Users\Krist\Documents\cSharpProjects\Hobby\Mastermind\GUI\obj\Debug\GUI.exe
 C:\Users\Krist\Documents\cSharpProjects\Hobby\Mastermind\GUI\obj\Debug\GUI.pdb
+C:\Users\Krist\Documents\cSharpProjects\Hobby\Mastermind\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\Krist\Documents\cSharpProjects\Hobby\Mastermind\GUI\obj\Debug\GUI.Help.resources
